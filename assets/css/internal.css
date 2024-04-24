@@ -1,7 +1,7 @@
 @import url("../css/reset.css");
 @import url("../css/global.css");
-@import url("../css/components/_navigator.css");
-@import url("../css/components/_piils.css");
+@import url("../css/components/navigator.css");
+@import url("../css/components/piils.css");
 
 .s-wrapper {
 	display: flex;
